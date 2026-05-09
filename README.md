@@ -1,1 +1,1 @@
-# LeetCode Solutions — @edwardy3
+# LeetCode Solutions
